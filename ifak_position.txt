@@ -1,0 +1,2 @@
+tt_ifak attachTo [player, [-0.10, -0.05, -0.1], "leftupleg",true];
+tt_ifak setVectorDirAndUp [[0,1,0], [0,0,1]];

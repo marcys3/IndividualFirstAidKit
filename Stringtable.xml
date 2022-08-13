@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="flf_pouch">
+  <Package name="IFAK">
+    <Container name="Config translation">
+      <Key ID="STR_FLF_OpenIfak">
+        <Original>Open IFAK</Original>
+        <English>Open IFAK</English>
+        <Polish>Otwórz IFAK</Polish>
+      </Key>
+      <Key ID="STR_FLF_OpenBandage">
+        <Original>Open Bandage Pouch</Original>
+        <English>Open Bandage Pouch</English>
+        <Polish>Otwórz kieszeń z bandażami</Polish>
+      </Key>
+      <Key ID="STR_FLF_OpenInjectors">
+        <Original>Open Injectors Pouch</Original>
+        <English>Open Injectors Pouch</English>
+        <Polish>Otwórz kieszeń z zastrzykami</Polish>
+      </Key>
+      <Key ID="STR_FLF_OpenMisc">
+        <Original>Open Medical and Painkillers pouch</Original>
+        <English>Open Medical and Painkillers pouch</English>
+        <Polish>Otwórz kieszeń z przedmiotami medycznymi</Polish>
+      </Key>
+      <Key ID="STR_FLF_DisplayName">
+        <Original>Individual First Aid Kit</Original>
+        <English>Individual First Aid Kit</English>
+        <Polish>Indywidualna apteczka pierwszej pomocy</Polish>
+      </Key>
+      <Key ID="STR_FLF_Description">
+        <Original>IFAK containing medical items</Original>
+        <English>IFAK containing medical items</English>
+        <Polish>Apteczka zawierająca przedmioty pierwszej pomocy</Polish>
+      </Key>
+      <Key ID="STR_FLF_DisplayName_DNS">
+        <Original>IFAK (Partially Unpacked)</Original>
+        <English>IFAK (Partially Unpacked)</English>
+        <Polish>IFAK (Częściowo rozpakowany)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Description_DNS">
+        <Original>DO NOT SHARE</Original>
+        <English>DO NOT SHARE</English>
+        <Polish>NIE UDOSTĘPNIAJ</Polish>
+      </Key>
+    </Container>
+    <Container name="Another Container">
+      <Key ID="STR_TAG_formatted">
+        <Original>Hello, %1.</Original>
+      </Key>
+      <Key ID="STR_TAG_structuredText">
+        <Original>Some text &lt;t color='%1'&gt;%2&lt;/t&gt;</Original>
+      </Key>
+    </Container>
+    <Container name="Functions translation">
+      <Key ID="STR_FLF_Unpacked">
+        <Original>IFAK was unpacked and is now empty</Original>
+        <English>IFAK was unpacked and is now empty</English>
+        <Polish>Całkowicie rozpakowano IFAKa</Polish>
+      </Key>
+      <Key ID="STR_FLF_Injectors">
+        <Original>Injectors unpacked</Original>
+        <English>Injectors unpacked</English>
+        <Polish>Rozpakowano strzykawki</Polish>
+      </Key>
+      <Key ID="STR_FLF_MedicalMisc">
+        <Original>Medical items and painkillers unpacked</Original>
+        <English>Medical items and painkillers unpacked</English>
+        <Polish>Rozpakowano przedmioty medyczne oraz leki przeciwbólowe</Polish>
+      </Key>
+      <Key ID="STR_FLF_Bandages">
+        <Original>Bandages unpacked</Original>
+        <English>Bandages unpacked</English>
+        <Polish>Rozpakowano bandaże</Polish>
+      </Key>
+    </Container>
+    <Container name="cba_settings">
+      <Key ID="STR_FLF_Bandage_type">
+        <Original>Type of Bandage</Original>
+        <English>Type of Bandage</English>
+        <Polish>Rodzaj opatrunku</Polish>
+      </Key>
+      <Key ID="STR_FLF_Amount">
+        <Original>Amount</Original>
+        <English>Amount</English>
+        <Polish>Ilość</Polish>
+      </Key>
+      <Key ID="STR_FLF_Quik">
+        <Original>Bandage (QuikClot)</Original>
+        <English>Bandage (QuikClot)</English>
+        <Polish>Opatrunek QuikClot ACS</Polish>
+      </Key>
+      <Key ID="STR_FLF_Basic">
+        <Original>Bandage (Basic)</Original>
+        <English>Bandage (Basic)</English>
+        <Polish>Bandaż (jałowy)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Packing">
+        <Original>Bandage (Packing)</Original>
+        <English>Bandage (Packing)</English>
+        <Polish>Bandaż (uciskowy)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Elastic">
+        <Original>Bandage (Elastic)</Original>
+        <English>Bandage (Elastic)</English>
+        <Polish>Bandaż (elastyczny)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Cba_name">
+        <Original>IFAK Settings</Original>
+        <English>IFAK Settings</English>
+        <Polish>Konfiguracja IFAK</Polish>
+      </Key>
+      <Key ID="STR_FLF_Bandage_pouch1">
+        <Original>Bandage pouch 1</Original>
+        <English>Bandage pouch 1</English>
+        <Polish>Kieszeń z bandażami (1)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Bandage_pouch2">
+        <Original>Bandage pouch 2</Original>
+        <English>Bandage pouch 2</English>
+        <Polish>Kieszeń z bandażami (2)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Bandage_pouch3">
+        <Original>Bandage pouch 3</Original>
+        <English>Bandage pouch 3</English>
+        <Polish>Kieszeń z bandażami (3)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Injector_type">
+        <Original>Type of Injector</Original>
+        <English>Type of Injector</English>
+        <Polish>Rodzaj autostrzykawki</Polish>
+      </Key>
+      <Key ID="STR_FLF_Injector_pouch1">
+        <Original>Injector pouch 1</Original>
+        <English>Injector pouch 1</English>
+        <Polish>Kieszeń z autostrzykawkami (1)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Injector_pouch2">
+        <Original>Injector pouch 2</Original>
+        <English>Injector pouch 2</English>
+        <Polish>Kieszeń z autostrzykawkami (2)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Morphine">
+        <Original>Morphine Autoinjector</Original>
+        <English>Morphine Autoinjector</English>
+        <Polish>Autostrzykawka z morfiną</Polish>
+      </Key>
+      <Key ID="STR_FLF_Epinephrine">
+        <Original>Epinephrine Autoinjector</Original>
+        <English>Epinephrine Autoinjector</English>
+        <Polish>Autostrzykawka EpiPen</Polish>
+      </Key>
+      <Key ID="STR_FLF_Adenosine">
+        <Original>Adenosine Autoinjector</Original>
+        <English>Adenosine Autoinjector</English>
+        <Polish>Autostrzykawka z adenozyną</Polish>
+      </Key>
+      <Key ID="STR_FLF_Medical_item">
+        <Original>Medical item</Original>
+        <English>Medical item</English>
+        <Polish>Wyposażenie medyczne</Polish>
+      </Key>
+      <Key ID="STR_FLF_Medical_pouch1">
+        <Original>Medical Pouch 1</Original>
+        <English>Medical Pouch 1</English>
+        <Polish>Kieszeń medyczna (1)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Medical_pouch2">
+        <Original>Medical Pouch 2</Original>
+        <English>Medical Pouch 2</English>
+        <Polish>Kieszeń medyczna (2)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Torniquet">
+        <Original>Tourniquet (CAT)</Original>
+        <English>Tourniquet (CAT)</English>
+        <Polish>Staza taktyczna (CAT)</Polish>
+      </Key>
+      <Key ID="STR_FLF_Splint">
+        <Original>Splint</Original>
+        <English>Splint</English>
+        <Polish>Szyna</Polish>
+      </Key>
+      <Key ID="STR_FLF_Guedel">
+        <Original>Guedel Tube</Original>
+        <English>Guedel Tube</English>
+        <Polish>Rurka ustno-gardłowa</Polish>
+      </Key>
+      <Key ID="STR_FLF_Larynx">
+        <Original>King LT</Original>
+        <English>King LT</English>
+        <Polish>Rurka krtaniowa</Polish>
+      </Key>
+      <Key ID="STR_FLF_Painkillers_type">
+        <Original>Add Painkillers</Original>
+        <English>Add Painkillers</English>
+        <Polish>Dodaj leki przeciwbólowe</Polish>
+      </Key>
+      <Key ID="STR_FLF_Painkillers_pouch">
+        <Original>Painkillers Pouch</Original>
+        <English>Painkillers Pouch</English>
+        <Polish>Kieszeń z lekami przeciwbólowymi</Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>
